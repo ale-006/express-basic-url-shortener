@@ -7,7 +7,7 @@ This is a basic url shortener to make people understand how to manage redirects 
 `quick.db@7.1.3` → Simple local database (not recommended for serious use)
 
 ## Getting started
-```console
+```sh
 $ git clone https://github.com/ale-006/express-basic-url-shortener
 $ npm init
 $ npm i
