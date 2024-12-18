@@ -12,6 +12,3 @@ $ git clone https://github.com/ale-006/express-basic-url-shortener
 $ npm init
 $ npm i
 ```
-
-## Support
-https://discord.gg/X4nGGPvJJY
